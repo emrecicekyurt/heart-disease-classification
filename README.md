@@ -1,11 +1,11 @@
-## heart-disease-classification
+# heart-disease-classification
 
 This project is a ML project that predicts whether heart disease exists or not by considering the indicators. The dataset is available at Kaggle https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease with over 300k cases in it. 
 
-# Dependent Variable (HeartDisease)
+## Dependent Variable (HeartDisease)
 Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI)
 
-# Independent Variables 
+## Independent Variables 
 
 - BMI : Body Mass Index (BMI)
 - Smoking : Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes]
